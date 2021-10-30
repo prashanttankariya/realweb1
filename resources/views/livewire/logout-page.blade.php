@@ -1,0 +1,1 @@
+<a class="dropdown-item" style="cursor: pointer" wire:click="logout">Logout</a>
